@@ -1,0 +1,2 @@
+# agata.css
+Bootstrap responsive
